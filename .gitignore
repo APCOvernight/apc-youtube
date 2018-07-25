@@ -1,0 +1,8 @@
+.vscode
+.vscode/*
+.nyc_output
+node_modules
+reports
+coverage
+stryker.log
+
